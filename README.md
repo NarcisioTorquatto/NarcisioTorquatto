@@ -59,3 +59,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/NarcisioTorquatto/NarcisioTorquatto/output/snake.svg" alt="Snake animation" />
+
+###
