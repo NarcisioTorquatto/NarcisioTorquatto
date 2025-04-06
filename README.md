@@ -59,4 +59,7 @@
 </div>
 
 ###
-![snake gif](https://github.com/NarcisioTorquatto/NarcisioTorquatto/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/NarcisioTorquatto/NarcisioTorquatto/output/snake.svg" alt="Snake animation" />
+
+###
